@@ -43,6 +43,7 @@ Here there are some interesting resources about DVC tool:
 - [ Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298&t=931s)
 -[2017-11-17 DVC Meeting Github demo](https://www.youtube.com/watch?v=d_FC23Tz6dU)
 - [Version Control For Your Machine Learning Projects](https://www.youtube.com/watch?v=9RhjIFM9Z9s)
+- A transcription of the above postcast is here (also on the web page of the postcast) [Data-version-control-with-dvc-what-do-the-authors-have-to-say](https://towardsdatascience.com/data-version-control-with-dvc-what-do-the-authors-have-to-say-3c3b10f27ee)
 
 The above podcast is really interesting. MLFlow is the winner for model deployment. All tech companies have their on ML platform that solves all this problems already. DVC is inspired by these ML platforms. Spark Airflow is mentioned too. They talk about many interesting things. Including model deployment using DVC.  
 
@@ -52,8 +53,9 @@ The above podcast is really interesting. MLFlow is the winner for model deployme
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDk0Njg3NCwtMTEwODAxODU1MiwtOT
-A4MjYxMDkwLC0xOTk5NjkzNTExLC0xODA1Nzg4NTUzLC0yMDYz
-MjgzNDI1LDcwNjc1OTQ2MywtMTg5Mjk4Nzc4MiwtMTA1NjY0Nj
-gyMCwtNDE5NTA0MzUyLDEyMTE3Njg4MDVdfQ==
+eyJoaXN0b3J5IjpbMTgxMTYxNTg0NiwtNzkwOTQ2ODc0LC0xMT
+A4MDE4NTUyLC05MDgyNjEwOTAsLTE5OTk2OTM1MTEsLTE4MDU3
+ODg1NTMsLTIwNjMyODM0MjUsNzA2NzU5NDYzLC0xODkyOTg3Nz
+gyLC0xMDU2NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2ODgwNV19
+
 -->
