@@ -23,13 +23,17 @@ Using Git for manage your code is a must. But also, you should able to track you
 
 The above article uses a Python package named [**lazydata**](http://github.com/rstojnic/lazydata) that is built specifically to manage data for growing ML projects.
 
+In the following articles, the author mentions another interesting tool to manage files with git: [**git-annex**](http://git-annex.branchable.com/). 
 
+- [How-to-version-control-your-machine-learning-task](https://towardsdatascience.com/how-to-version-control-your-machine-learning-task-cad74dce44c4)
+
+The above articles is mainly devoted to the most rich tool so far 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk1Nzc4NTMsNzA2NzU5NDYzLC0xOD
+eyJoaXN0b3J5IjpbLTE1NDcxOTA3NDMsNzA2NzU5NDYzLC0xOD
 kyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2
 ODgwNV19
 -->
