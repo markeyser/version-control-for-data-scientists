@@ -15,7 +15,10 @@ From the same author of the above two articles, we have the following interestin
 
 - [Implementing-git-in-data-science](https://towardsdatascience.com/implementing-git-in-data-science-11528f0fb4a7)
 
+## Approaches to deal with data and version control
+
+Using Git for manage your code is a must. But also, you should e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjczNTQ2LC0xMDU2NjQ2ODIwLC00MT
-k1MDQzNTIsMTIxMTc2ODgwNV19
+eyJoaXN0b3J5IjpbLTEyNjY4NTg1OTQsLTEwNTY2NDY4MjAsLT
+QxOTUwNDM1MiwxMjExNzY4ODA1XX0=
 -->
