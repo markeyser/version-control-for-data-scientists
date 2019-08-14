@@ -17,8 +17,12 @@ From the same author of the above two articles, we have the following interestin
 
 ## Approaches to deal with data and version control
 
-Using Git for manage your code is a must. But also, you should e
+Using Git for manage your code is a must. But also, you should able to track your data. There are different new approaches to this specific issue in Data Science projects.
+
+- [Structuring-ml-projects-so-they-can-grow](https://towardsdatascience.com/structuring-ml-projects-so-they-can-grow-b63e89c8be8f)
+
+The above article uses a Python li
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY4NTg1OTQsLTEwNTY2NDY4MjAsLT
+eyJoaXN0b3J5IjpbLTE1NjY0ODY5NjcsLTEwNTY2NDY4MjAsLT
 QxOTUwNDM1MiwxMjExNzY4ODA1XX0=
 -->
