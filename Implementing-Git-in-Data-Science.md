@@ -31,6 +31,10 @@ The above articles is mainly devoted to the most rich tool so far named [**Data 
 
 - [How-to-version-control-your-machine-learning-task](https://becominghuman.ai/how-to-version-control-your-machine-learning-task-ii-d37da60ef570)
 
+Here it is another interesting article:
+
+- [How-to-use-data-version-control-dvc-in-a-machine-learning-project](https://towardsdatascience.com/how-to-use-data-version-control-dvc-in-a-machine-learning-project-a78245c0185)
+
 Here there are some interesting resources about DVC tool:
 
 - [DVC tutorial](https://dvc.org/doc/tutorial)
@@ -48,8 +52,8 @@ The above podcast is really interesting. MLFlow is the winner for model deployme
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDgwMTg1NTIsLTkwODI2MTA5MCwtMT
-k5OTY5MzUxMSwtMTgwNTc4ODU1MywtMjA2MzI4MzQyNSw3MDY3
-NTk0NjMsLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAsLTQxOTUwND
-M1MiwxMjExNzY4ODA1XX0=
+eyJoaXN0b3J5IjpbLTc5MDk0Njg3NCwtMTEwODAxODU1MiwtOT
+A4MjYxMDkwLC0xOTk5NjkzNTExLC0xODA1Nzg4NTUzLC0yMDYz
+MjgzNDI1LDcwNjc1OTQ2MywtMTg5Mjk4Nzc4MiwtMTA1NjY0Nj
+gyMCwtNDE5NTA0MzUyLDEyMTE3Njg4MDVdfQ==
 -->
