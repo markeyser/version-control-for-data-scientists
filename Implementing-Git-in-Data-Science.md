@@ -14,7 +14,8 @@ From the same author of the above two articles, we have the following interestin
 - [Building-package-for-machine-learning-project-in-python](https://towardsdatascience.com/building-package-for-machine-learning-project-in-python-3fc16f541693)
 
 - [Implementing-git-in-data-science](https://towardsdatascience.com/implementing-git-in-data-science-11528f0fb4a7)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY2NDY4MjAsLTQxOTUwNDM1MiwxMj
-ExNzY4ODA1XX0=
+eyJoaXN0b3J5IjpbMjA4MjczNTQ2LC0xMDU2NjQ2ODIwLC00MT
+k1MDQzNTIsMTIxMTc2ODgwNV19
 -->
