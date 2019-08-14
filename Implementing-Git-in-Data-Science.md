@@ -15,7 +15,7 @@ From the same author of the above two articles, we have the following interestin
 
 - [Implementing-git-in-data-science](https://towardsdatascience.com/implementing-git-in-data-science-11528f0fb4a7)
 
-## Approaches to deal with data and version control
+## Approaches to deal with data and version control - Data Versioning
 
 Using Git for manage your code is a must. But also, you should able to track your data. There are different new approaches to this specific issue in Data Science projects.
 
@@ -27,6 +27,6 @@ The above article uses a Python package named [**lazydata**](http://github.com/r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAsLT
-QxOTUwNDM1MiwxMjExNzY4ODA1XX0=
+eyJoaXN0b3J5IjpbNzA2NzU5NDYzLC0xODkyOTg3NzgyLC0xMD
+U2NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2ODgwNV19
 -->
