@@ -35,12 +35,13 @@ Here there are some interesting resources about DVC tool:
 
 - [DVC tutorial](https://dvc.org/doc/tutorial)
 - [DVC webpage](https://dvc.org/)
+- 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMyODM0MjUsNzA2NzU5NDYzLC0xOD
-kyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2
-ODgwNV19
+eyJoaXN0b3J5IjpbNTI3MTUwMzQsLTIwNjMyODM0MjUsNzA2Nz
+U5NDYzLC0xODkyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1MDQz
+NTIsMTIxMTc2ODgwNV19
 -->
