@@ -42,11 +42,14 @@ Here there are some interesting resources about DVC tool:
 
 The above podcast is really interesting. MLFlow is the winner for model deployment. All tech companies have their on ML platform that solves all this problems already. DVC is inspired by these ML platforms. Spark Airflow is mentioned too. They talk about many interesting things. Including model deployment using DVC.  
 
+## Other
+
+- [Principled-machine-learning](https://dev.to/robogeek/principled-machine-learning-4eho)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODI2MTA5MCwtMTk5OTY5MzUxMSwtMT
-gwNTc4ODU1MywtMjA2MzI4MzQyNSw3MDY3NTk0NjMsLTE4OTI5
-ODc3ODIsLTEwNTY2NDY4MjAsLTQxOTUwNDM1MiwxMjExNzY4OD
-A1XX0=
+eyJoaXN0b3J5IjpbLTExMDgwMTg1NTIsLTkwODI2MTA5MCwtMT
+k5OTY5MzUxMSwtMTgwNTc4ODU1MywtMjA2MzI4MzQyNSw3MDY3
+NTk0NjMsLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAsLTQxOTUwND
+M1MiwxMjExNzY4ODA1XX0=
 -->
