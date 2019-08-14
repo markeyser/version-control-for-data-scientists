@@ -38,11 +38,12 @@ Here there are some interesting resources about DVC tool:
 - [Dmitry Petrov - Machine learning model and dataset versioning practices - PyCon 2019](https://www.youtube.com/watch?v=jkfh2PM5Sz8&t=623s)
 - [ Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298&t=931s)
 -[2017-11-17 DVC Meeting Github demo](https://www.youtube.com/watch?v=d_FC23Tz6dU)
+- [Version Control For Your Machine Learning Projects](https://www.youtube.com/watch?v=9RhjIFM9Z9s)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIxNjI0NTUsLTIwNjMyODM0MjUsNz
+eyJoaXN0b3J5IjpbLTE4MDU3ODg1NTMsLTIwNjMyODM0MjUsNz
 A2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1
 MDQzNTIsMTIxMTc2ODgwNV19
 -->
