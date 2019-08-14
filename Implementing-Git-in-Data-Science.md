@@ -51,12 +51,13 @@ The above podcast is really interesting. MLFlow is the winner for model deployme
 
 - [Principled-machine-learning](https://dev.to/robogeek/principled-machine-learning-4eho)
 - A more high overview article about ML version control [Machine-learning-version-control-is-all-you-need](https://www.lpalmieri.com/posts/2018-09-14-machine-learning-version-control-is-all-you-need/).
+- G
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDgxNzI5MiwxODExNjE1ODQ2LC03OT
-A5NDY4NzQsLTExMDgwMTg1NTIsLTkwODI2MTA5MCwtMTk5OTY5
-MzUxMSwtMTgwNTc4ODU1MywtMjA2MzI4MzQyNSw3MDY3NTk0Nj
-MsLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAsLTQxOTUwNDM1Miwx
-MjExNzY4ODA1XX0=
+eyJoaXN0b3J5IjpbLTEwOTEwNjI2NTgsMjA4MDgxNzI5MiwxOD
+ExNjE1ODQ2LC03OTA5NDY4NzQsLTExMDgwMTg1NTIsLTkwODI2
+MTA5MCwtMTk5OTY5MzUxMSwtMTgwNTc4ODU1MywtMjA2MzI4Mz
+QyNSw3MDY3NTk0NjMsLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAs
+LTQxOTUwNDM1MiwxMjExNzY4ODA1XX0=
 -->
