@@ -40,12 +40,13 @@ Here there are some interesting resources about DVC tool:
 -[2017-11-17 DVC Meeting Github demo](https://www.youtube.com/watch?v=d_FC23Tz6dU)
 - [Version Control For Your Machine Learning Projects](https://www.youtube.com/watch?v=9RhjIFM9Z9s)
 
-The above podcast is really interesting. MLFlow is the winner for model deployment. All tech companies have their on ML platform that solves all this problems already. DVC is inspired by these ML platforms. Spark Airflow is mentioned too.  
+The above podcast is really interesting. MLFlow is the winner for model deployment. All tech companies have their on ML platform that solves all this problems already. DVC is inspired by these ML platforms. Spark Airflow is mentioned too. They talk about many interesting thinks. I 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk2OTM1MTEsLTE4MDU3ODg1NTMsLT
-IwNjMyODM0MjUsNzA2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2
-NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2ODgwNV19
+eyJoaXN0b3J5IjpbLTE0NjcyMDQyNywtMTk5OTY5MzUxMSwtMT
+gwNTc4ODU1MywtMjA2MzI4MzQyNSw3MDY3NTk0NjMsLTE4OTI5
+ODc3ODIsLTEwNTY2NDY4MjAsLTQxOTUwNDM1MiwxMjExNzY4OD
+A1XX0=
 -->
