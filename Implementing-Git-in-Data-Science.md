@@ -21,8 +21,12 @@ Using Git for manage your code is a must. But also, you should able to track you
 
 - [Structuring-ml-projects-so-they-can-grow](https://towardsdatascience.com/structuring-ml-projects-so-they-can-grow-b63e89c8be8f)
 
-The above article uses a Python li
+The above article uses a Python package named [**lazydata**](http://github.com/rstojnic/lazydata) that is built specifically to manage data for growing ML projects.
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY0ODY5NjcsLTEwNTY2NDY4MjAsLT
+eyJoaXN0b3J5IjpbLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAsLT
 QxOTUwNDM1MiwxMjExNzY4ODA1XX0=
 -->
