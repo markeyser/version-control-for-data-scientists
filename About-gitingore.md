@@ -10,9 +10,8 @@ It’s most important to exclude sensitive information, like passwords and API k
 
 The next step is to ignore very large data files and unimportant files that do not need to be tracked (i.e. ipython notebook checkpoints, settings files from your IDE, __pycache__, .pyc, etc). In the example above, all the input/output artifacts should be ignored too since they are fully determined from the code itself and can be regenerated if needed.
 
-[source]()
+[Source](https://towardsdatascience.com/implementing-git-in-data-science-11528f0fb4a7)
 
-[https://towardsdatascience.com/implementing-git-in-data-science-11528f0fb4a7](https://towardsdatascience.com/implementing-git-in-data-science-11528f0fb4a7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MzE5ODQyXX0=
+eyJoaXN0b3J5IjpbLTIwMTg0NDc3OTJdfQ==
 -->
