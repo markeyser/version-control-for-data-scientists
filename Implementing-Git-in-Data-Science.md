@@ -36,13 +36,13 @@ Here there are some interesting resources about DVC tool:
 - [DVC tutorial](https://dvc.org/doc/tutorial)
 - [DVC webpage](https://dvc.org/)
 - [Dmitry Petrov - Machine learning model and dataset versioning practices - PyCon 2019](https://www.youtube.com/watch?v=jkfh2PM5Sz8&t=623s)
--  Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298&t=931s)
-
+- [ Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298&t=931s)
+-[2017-11-17 DVC Meeting Github demo](https://www.youtube.com/watch?v=d_FC23Tz6dU)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNTU4MiwtMjA2MzI4MzQyNSw3MDY3NT
-k0NjMsLTE4OTI5ODc3ODIsLTEwNTY2NDY4MjAsLTQxOTUwNDM1
-MiwxMjExNzY4ODA1XX0=
+eyJoaXN0b3J5IjpbLTE0NDIxNjI0NTUsLTIwNjMyODM0MjUsNz
+A2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1
+MDQzNTIsMTIxMTc2ODgwNV19
 -->
