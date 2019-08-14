@@ -40,10 +40,12 @@ Here there are some interesting resources about DVC tool:
 -[2017-11-17 DVC Meeting Github demo](https://www.youtube.com/watch?v=d_FC23Tz6dU)
 - [Version Control For Your Machine Learning Projects](https://www.youtube.com/watch?v=9RhjIFM9Z9s)
 
+The above podcast is really interesting. ML is the winner for model deployment. All tech companies have their on ML platform that solves all this problems already. DVC is inspired by these ML platforms. 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU3ODg1NTMsLTIwNjMyODM0MjUsNz
-A2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1
-MDQzNTIsMTIxMTc2ODgwNV19
+eyJoaXN0b3J5IjpbLTIyOTU5ODk3NSwtMTgwNTc4ODU1MywtMj
+A2MzI4MzQyNSw3MDY3NTk0NjMsLTE4OTI5ODc3ODIsLTEwNTY2
+NDY4MjAsLTQxOTUwNDM1MiwxMjExNzY4ODA1XX0=
 -->
