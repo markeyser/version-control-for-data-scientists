@@ -27,17 +27,20 @@ In the following articles, the author mentions another interesting tool to manag
 
 - [How-to-version-control-your-machine-learning-task](https://towardsdatascience.com/how-to-version-control-your-machine-learning-task-cad74dce44c4)
 
-The above articles is mainly devoted to the most rich tool so far named [**Data Version Control or DVC**](https://dataversioncontrol.com/). 
+The above articles is mainly devoted to the most rich tool so far named [**Data Version Control or DVC**](https://dataversioncontrol.com/). This author also has the following less interesting article:
+
+- [How-to-version-control-your-machine-learning-task](https://becominghuman.ai/how-to-version-control-your-machine-learning-task-ii-d37da60ef570)
 
 Here there are some interesting resources about DVC tool:
 
 - [DVC tutorial](https://dvc.org/doc/tutorial)
+- [DVC webpage](https://dvc.org/)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc2Njk0NzQsNzA2NzU5NDYzLC0xOD
+eyJoaXN0b3J5IjpbLTIwNjMyODM0MjUsNzA2NzU5NDYzLC0xOD
 kyOTg3NzgyLC0xMDU2NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2
 ODgwNV19
 -->
