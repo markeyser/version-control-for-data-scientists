@@ -20,8 +20,20 @@ For instance if you're working a large open source library that other people can
 
 Perhaps your project is a portfolio piece to help you land your first job. As a developer, in that case you'll want to document your work in a way an employer can easily skim and pull relevant information. Give some thought as to who is going to be reading your documentation. You'll want it to be easy for anyone to dive into your code and get it up and running without any hiccups!
 
-[fdsfa](https://youtu.be/EBZxpavWMjk)
+## Anatomy of a README
+
+Consider three README's for three different projects below:
+
+1.  [factory_girl](https://github.com/thoughtbot/factory_girl)
+2.  [can.viewify](https://github.com/zkat/can.viewify)
+3.  [create-your-own-adventure](https://github.com/udacity/create-your-own-adventure)
+
+As you examine each of the README's, take note of the following:
+
+-   What information is being communicated?
+-   How is this information structured?
+-   Do you notice any patterns?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIzNzUzOTcsNTI4NTQ0Njc4LDEwND
-Y1NDgzMDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNDA0NzkwNDMsLTEyOTIzNzUzOTcsNT
+I4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
 -->
