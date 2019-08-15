@@ -33,7 +33,9 @@ As you examine each of the README's, take note of the following:
 -   What information is being communicated?
 -   How is this information structured?
 -   Do you notice any patterns?
+
+After you've taken a few moments to review the README's yourself, feel free to check the observations we made:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA0NzkwNDMsLTEyOTIzNzUzOTcsNT
-I4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
+eyJoaXN0b3J5IjpbMTY5MTY4ODc0NiwtMTI5MjM3NTM5Nyw1Mj
+g1NDQ2NzgsMTA0NjU0ODMwNF19
 -->
