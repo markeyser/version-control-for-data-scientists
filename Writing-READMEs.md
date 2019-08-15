@@ -47,6 +47,12 @@ Perhaps your project is a portfolio piece to help you land your first job. As a 
 
 https://youtu.be/qkhZ9kTly9k
 
+## Why Should Art Have Documented His Code?
+
+https://youtu.be/EBZxpavWMjk
+
+## Introduction to READMEs
+
 ## Anatomy of a README
 
 Consider three README's for three different projects below:
@@ -169,7 +175,7 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDA3NzE3MywtMjEwMjM3NzYxNSwxND
-cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
-Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
+eyJoaXN0b3J5IjpbLTE5NzEyNjYzNjMsLTIxMDIzNzc2MTUsMT
+Q3MDYzNzQyLDEwMDEwMDA5NzksMTY5MTY4ODc0NiwtMTI5MjM3
+NTM5Nyw1Mjg1NDQ2NzgsMTA0NjU0ODMwNF19
 -->
