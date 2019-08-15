@@ -23,8 +23,13 @@ Learn the importance of well documented code and see how to craft meaningful REA
 [11. Basic Markdown Syntax Quiz](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/456a380f-64c8-4b33-913e-dc2ad90efbf8 "11. Basic Markdown Syntax Quiz")
 [12. More Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53861592300923 "12. More Markdown Syntax")
 [13. Quiz: Markdown Syntax Practice](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53853602320923 "13. Quiz: Markdown Syntax Practice")
-14.  [14. Document Everything!](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53929794080923 "14. Document Everything!")
+[14. Document Everything!](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53929794080923 "14. Document Everything!")
 
+## 1. Welcome
+
+https://youtu.be/zYyRDFx3e28
+
+## 2. What is Documentation
 
 ## Who is Documentation For?
 
@@ -158,7 +163,7 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NjU0MzgyLC0yMTAyMzc3NjE1LDE0Nz
-A2Mzc0MiwxMDAxMDAwOTc5LDE2OTE2ODg3NDYsLTEyOTIzNzUz
-OTcsNTI4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
+eyJoaXN0b3J5IjpbMTA2NjQwMDYyMywtMjEwMjM3NzYxNSwxND
+cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
+Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
