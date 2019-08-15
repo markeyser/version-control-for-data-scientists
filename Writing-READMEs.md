@@ -35,7 +35,11 @@ As you examine each of the README's, take note of the following:
 -   Do you notice any patterns?
 
 After you've taken a few moments to review the README's yourself, feel free to check the observations we made:
+
+https://youtu.be/7ZHhSSBUzoI
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTY4ODc0NiwtMTI5MjM3NTM5Nyw1Mj
-g1NDQ2NzgsMTA0NjU0ODMwNF19
+eyJoaXN0b3J5IjpbMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMj
+kyMzc1Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
