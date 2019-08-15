@@ -53,11 +53,16 @@ The above podcast is really interesting. MLFlow is the winner for model deployme
 - A more high overview article about ML version control [Machine-learning-version-control-is-all-you-need](https://www.lpalmieri.com/posts/2018-09-14-machine-learning-version-control-is-all-you-need/).
 - Great article about type A / Type B data scientists [My-two-year-journey-as-a-data-scientist-at-twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)
 - The above article is mentioned here [Right Code, Right Place, Right Time - Tim Hopper](https://www.youtube.com/watch?v=BvqLgeNVg0Y)
+## Contributing to Open Source Projects Using Github
+
+- [# ML #27 - Contributing to Open Source Projects Using Github](https://www.youtube.com/watch?v=niaWae_2a8M)
+- [How to conti](https://egghead.io/browse/platforms/github)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MDM4OTEzLDIwODA4MTcyOTIsMTgxMT
-YxNTg0NiwtNzkwOTQ2ODc0LC0xMTA4MDE4NTUyLC05MDgyNjEw
-OTAsLTE5OTk2OTM1MTEsLTE4MDU3ODg1NTMsLTIwNjMyODM0Mj
-UsNzA2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2NjQ2ODIwLC00
-MTk1MDQzNTIsMTIxMTc2ODgwNV19
+eyJoaXN0b3J5IjpbOTAxMzQ0MzAsNzI3MDM4OTEzLDIwODA4MT
+cyOTIsMTgxMTYxNTg0NiwtNzkwOTQ2ODc0LC0xMTA4MDE4NTUy
+LC05MDgyNjEwOTAsLTE5OTk2OTM1MTEsLTE4MDU3ODg1NTMsLT
+IwNjMyODM0MjUsNzA2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2
+NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2ODgwNV19
 -->
