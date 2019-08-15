@@ -178,19 +178,13 @@ A few important items you may want to write and should pay extra attention to in
 -   Links and images
 -   Large blocks of code
 
-## 13. Markdown Syntax Practice
-
-https://youtu.be/sQj7ZSTk0U0
-
-Here's a link to the basic [Markdown documentation](https://help.github.com/articles/markdown-basics/). You can also check out the differences in GitHub flavored Markdown [here](https://help.github.com/articles/github-flavored-markdown/).
-
-## HTML Is Still a Thing
+### HTML Is Still a Thing
 
 Something to keep in mind when using Markdown is that HTML is still valid in Markdown. If there's ever something fancy you can't accomplish with just Markdown, it's okay to fall back to HTML.
 
 The catch here is that you may be overcomplicating your life. If you need to fall back to plain HTML, there's a good chance that you could communicate whatever it is you are trying to say in a simpler format.
 
-## Working with  `.md`  Files
+### Working with  `.md`  Files
 
 Much like how your HTML files should be saved with a  `.html`  extension, your Markdown files should be saved with a  `.md`  extension.
 
@@ -202,11 +196,20 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 
+
+## 13. Markdown Syntax Practice
+
+https://youtu.be/sQj7ZSTk0U0
+
+Here's a link to the basic [Markdown documentation](https://help.github.com/articles/markdown-basics/). You can also check out the differences in GitHub flavored Markdown [here](https://help.github.com/articles/github-flavored-markdown/).
+
+
+
 ## 13. Document Everything!
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODM0MjE2OCwtMjEwMjM3NzYxNSwxND
+eyJoaXN0b3J5IjpbMTgwODcyODcxMCwtMjEwMjM3NzYxNSwxND
 cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
 Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
