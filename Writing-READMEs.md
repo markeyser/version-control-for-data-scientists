@@ -10,7 +10,7 @@
 
 Learn the importance of well documented code and see how to craft meaningful READMEs.
 
-[1. Welcome](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786070923 "1. Welcome")
+[1. Welcome](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786070923)
 [2. What is Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786080923 "2. What is Documentation?")
 [3. Who is Documentation For?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/c9d82ab5-d56f-455c-9a34-b64eecc4c9c5 "3. Who is Documentation For?")
 [4. How Does Nija Consume Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/54131785380923 "4. How Does Nija Consume Documentation?")
@@ -209,7 +209,7 @@ Here's a link to the basic [Markdown documentation](https://help.github.com/arti
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc0MjMzODcsLTIxMDIzNzc2MTUsMT
-Q3MDYzNzQyLDEwMDEwMDA5NzksMTY5MTY4ODc0NiwtMTI5MjM3
-NTM5Nyw1Mjg1NDQ2NzgsMTA0NjU0ODMwNF19
+eyJoaXN0b3J5IjpbMTAzNjA3NDU0OCwtMjEwMjM3NzYxNSwxND
+cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
+Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
