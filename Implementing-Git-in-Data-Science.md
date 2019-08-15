@@ -56,13 +56,13 @@ The above podcast is really interesting. MLFlow is the winner for model deployme
 ## Contributing to Open Source Projects Using Github
 
 - [# ML #27 - Contributing to Open Source Projects Using Github](https://www.youtube.com/watch?v=niaWae_2a8M)
-- [How to conti](https://egghead.io/browse/platforms/github)
-
+- [How to contribute to an open source project using GitHub](https://egghead.io/browse/platforms/github)
+- [The-beginners-guide-to-contributing-to-a-github-project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMzQ0MzAsNzI3MDM4OTEzLDIwODA4MT
-cyOTIsMTgxMTYxNTg0NiwtNzkwOTQ2ODc0LC0xMTA4MDE4NTUy
-LC05MDgyNjEwOTAsLTE5OTk2OTM1MTEsLTE4MDU3ODg1NTMsLT
-IwNjMyODM0MjUsNzA2NzU5NDYzLC0xODkyOTg3NzgyLC0xMDU2
-NjQ2ODIwLC00MTk1MDQzNTIsMTIxMTc2ODgwNV19
+eyJoaXN0b3J5IjpbMTY5MzQ1MDk1NSw3MjcwMzg5MTMsMjA4MD
+gxNzI5MiwxODExNjE1ODQ2LC03OTA5NDY4NzQsLTExMDgwMTg1
+NTIsLTkwODI2MTA5MCwtMTk5OTY5MzUxMSwtMTgwNTc4ODU1My
+wtMjA2MzI4MzQyNSw3MDY3NTk0NjMsLTE4OTI5ODc3ODIsLTEw
+NTY2NDY4MjAsLTQxOTUwNDM1MiwxMjExNzY4ODA1XX0=
 -->
