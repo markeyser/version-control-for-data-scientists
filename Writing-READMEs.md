@@ -47,13 +47,13 @@ Perhaps your project is a portfolio piece to help you land your first job. As a 
 
 https://youtu.be/qkhZ9kTly9k
 
-## Why Should Art Have Documented His Code?
+## 5. Why Should Art Have Documented His Code?
 
 https://youtu.be/EBZxpavWMjk
 
-## Introduction to READMEs
+## 6. Introduction to READMEs
 
-## Anatomy of a README
+### Anatomy of a README
 
 Consider three README's for three different projects below:
 
@@ -80,6 +80,9 @@ As a code base grows, which sections might you add to your README?
 -
 
 Press your project has received doesn't really help us actually use your code, so it's not a good fit for a README (this might be something more appropriate for your own website). Photos of your cat might fare better elsewhere as well, rather than your README.
+
+## Anatomy of a README
+
 
 # Markdown 101
 
@@ -175,7 +178,7 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEyNjYzNjMsLTIxMDIzNzc2MTUsMT
+eyJoaXN0b3J5IjpbLTE0ODEyMjQ2MDYsLTIxMDIzNzc2MTUsMT
 Q3MDYzNzQyLDEwMDEwMDA5NzksMTY5MTY4ODc0NiwtMTI5MjM3
 NTM5Nyw1Mjg1NDQ2NzgsMTA0NjU0ODMwNF19
 -->
