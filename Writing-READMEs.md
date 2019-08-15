@@ -131,7 +131,7 @@ becomes: And in that moment I thought to myself:  _Did I turn off the stove?_
 
 Much like the previous example, this code reads much more like English, which is great for when you're skimming the original document.
 
-## To  `code`, or not to  `code`?
+### To  `code`, or not to  `code`?
 
 Inline  `code`  is useful for indicating that you're writing code and not a regular word. For this, you'll surround text in backticks (`, not a single quote). So this code:
 
@@ -144,7 +144,7 @@ becomes: You should use the  `strong`  tag.
 
 ...which makes much more sense than "You should use the strong tag."
 
-## The Title Sequence
+### The Title Sequence
 
 Headings are even simpler! For  `h1`  through  `h6`  tags, all you'll need is a  `#`  before your text. The number of  `#`s you include tells Markdown which header tag you're using. For example:
 
@@ -154,7 +154,7 @@ Headings are even simpler! For  `h1`  through  `h6`  tags, all you'll need is a 
 
 becomes...
 
-## This is an h2.
+### This is an h2.
 
 ### This is an h3.
 
@@ -162,8 +162,13 @@ Let's practice!
 
 Here's a link to the basic  [Markdown documentation](https://help.github.com/articles/markdown-basics/). You can also check out the differences in GitHub flavored Markdown  [here](https://help.github.com/articles/github-flavored-markdown/).
 
+## 11. Basic Markdown Syntax Quiz
 
-# More Markdown
+### Exercise: Basic Markdown Syntax
+
+Let's do a quick review of some of the syntax you've learned. In the spaces provided, use the necessary mark-down to create each of words shown.
+
+## 12. More Markdown
 
 Now it's your turn. Dive into the  [Markdown documentation](https://help.github.com/articles/markdown-basics/), and explore more ways to write beautiful READMEs.
 
@@ -191,7 +196,7 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTY1MzAyOSwtMjEwMjM3NzYxNSwxND
+eyJoaXN0b3J5IjpbLTI1MDg1NjA2MiwtMjEwMjM3NzYxNSwxND
 cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
 Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
