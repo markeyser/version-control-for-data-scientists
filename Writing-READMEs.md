@@ -10,18 +10,18 @@
 
 Learn the importance of well documented code and see how to craft meaningful READMEs.
 
-1. [1. Welcome](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786070923)
-2. [2. What is Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786080923 "2. What is Documentation?")
-3. [3. Who is Documentation For?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/c9d82ab5-d56f-455c-9a34-b64eecc4c9c5 "3. Who is Documentation For?")
-4. [4. How Does Nija Consume Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/54131785380923 "4. How Does Nija Consume Documentation?")
-5. [5. Why Should Art Have Documented His Code?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53928293410923 "5. Why Should Art Have Documented His Code?")
-6. [6. Introduction to READMEs](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/876fb9ad-54c9-457f-b41b-b2676a30806b "6. Introduction to READMEs")
-7. [7. Anatomy of a README](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923 "7. Anatomy of a README")
-8. [8. Documenting a Growing Codebase](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/e79fba65-50e5-44b9-a29f-850a8b6600a2 "8. Documenting a Growing Codebase")
-9. [9. Readable READMEs with Markdown](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786210923 "9. Readable READMEs with Markdown")
-10. [10. Basic Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53931993710923 "10. Basic Markdown Syntax")
-11. [11. Basic Markdown Syntax Quiz](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/456a380f-64c8-4b33-913e-dc2ad90efbf8 "11. Basic Markdown Syntax Quiz")
-12. [12. More Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53861592300923 "12. More Markdown Syntax")
+1. [Welcome](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786070923)
+2. [What is Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786080923 "2. What is Documentation?")
+3. [Who is Documentation For?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/c9d82ab5-d56f-455c-9a34-b64eecc4c9c5 "3. Who is Documentation For?")
+4. [How Does Nija Consume Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/54131785380923 "4. How Does Nija Consume Documentation?")
+5. [Why Should Art Have Documented His Code?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53928293410923 "5. Why Should Art Have Documented His Code?")
+6. [Introduction to READMEs](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/876fb9ad-54c9-457f-b41b-b2676a30806b "6. Introduction to READMEs")
+7. [Anatomy of a README](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923 "7. Anatomy of a README")
+8. [Documenting a Growing Codebase](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/e79fba65-50e5-44b9-a29f-850a8b6600a2 "8. Documenting a Growing Codebase")
+9. [Readable READMEs with Markdown](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786210923 "9. Readable READMEs with Markdown")
+10. [Basic Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53931993710923 "10. Basic Markdown Syntax")
+11. [Basic Markdown Syntax Quiz](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/456a380f-64c8-4b33-913e-dc2ad90efbf8 "11. Basic Markdown Syntax Quiz")
+12. [More Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53861592300923 "12. More Markdown Syntax")
 13. [Quiz: Markdown Syntax Practice](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53853602320923 "13. Quiz: Markdown Syntax Practice")
 14. [Document Everything!](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53929794080923 "14. Document Everything!")
 
@@ -210,7 +210,7 @@ Here's a link to the basic [Markdown documentation](https://help.github.com/arti
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzI5NTkwNSwtMjEwMjM3NzYxNSwxND
+eyJoaXN0b3J5IjpbMTE1NTA2NDQ1NiwtMjEwMjM3NzYxNSwxND
 cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
 Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
