@@ -12,10 +12,10 @@ Learn the importance of well documented code and see how to craft meaningful REA
 
 1. [Welcome](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#1-welcome)
 2. [What is Documentation?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#2-what-is-documentation)
-3. [Who is Documentation For?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/c9d82ab5-d56f-455c-9a34-b64eecc4c9c5 "3. Who is Documentation For?")
-4. [How Does Nija Consume Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/54131785380923 "4. How Does Nija Consume Documentation?")
-5. [Why Should Art Have Documented His Code?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53928293410923 "5. Why Should Art Have Documented His Code?")
-6. [Introduction to READMEs](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/876fb9ad-54c9-457f-b41b-b2676a30806b "6. Introduction to READMEs")
+3. [Who is Documentation For?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#3-who-is-documentation-for)
+4. [How Does Nija Consume Documentation?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#4-how-does-nija-consume-documentation)
+5. [Why Should Art Have Documented His Code?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#5-why-should-art-have-documented-his-code)
+6. [Introduction to READMEs]https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#6-introduction-to-readmes)
 7. [Anatomy of a README](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923 "7. Anatomy of a README")
 8. [Documenting a Growing Codebase](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/e79fba65-50e5-44b9-a29f-850a8b6600a2 "8. Documenting a Growing Codebase")
 9. [Readable READMEs with Markdown](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786210923 "9. Readable READMEs with Markdown")
@@ -210,7 +210,7 @@ Here's a link to the basic [Markdown documentation](https://help.github.com/arti
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzEzMDcyMSwtMjEwMjM3NzYxNSwxND
-cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
-Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
+eyJoaXN0b3J5IjpbNTA4NDY4NDIzLC0yMTAyMzc3NjE1LDE0Nz
+A2Mzc0MiwxMDAxMDAwOTc5LDE2OTE2ODg3NDYsLTEyOTIzNzUz
+OTcsNTI4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
 -->
