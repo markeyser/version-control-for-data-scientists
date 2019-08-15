@@ -77,12 +77,19 @@ As noted in the video above, feel free to use [Choose a License](http://chooseal
 
 As a code base grows, which sections might you add to your README?
 
--
-
 Press your project has received doesn't really help us actually use your code, so it's not a good fit for a README (this might be something more appropriate for your own website). Photos of your cat might fare better elsewhere as well, rather than your README.
 
 ## Anatomy of a README
 
+https://youtu.be/i602s2RxWR0
+
+## Documenting a Growing Codebase
+
+### Documenting a Growing Codebase
+
+https://youtu.be/4sU1LZksOH4
+
+As noted in the video above, feel free to use  [Choose a License](http://choosealicense.com/)  to help you, well... choose a license for your projects.
 
 # Markdown 101
 
@@ -178,7 +185,7 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEyMjQ2MDYsLTIxMDIzNzc2MTUsMT
-Q3MDYzNzQyLDEwMDEwMDA5NzksMTY5MTY4ODc0NiwtMTI5MjM3
-NTM5Nyw1Mjg1NDQ2NzgsMTA0NjU0ODMwNF19
+eyJoaXN0b3J5IjpbMzg0NjU4Njk2LC0yMTAyMzc3NjE1LDE0Nz
+A2Mzc0MiwxMDAxMDAwOTc5LDE2OTE2ODg3NDYsLTEyOTIzNzUz
+OTcsNTI4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
 -->
