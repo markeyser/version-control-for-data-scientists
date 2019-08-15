@@ -10,8 +10,8 @@
 
 Learn the importance of well documented code and see how to craft meaningful READMEs.
 
-1. [Welcome](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786070923)
-2. [What is Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786080923 "2. What is Documentation?")
+1. [Welcome](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#1-welcome)
+2. [What is Documentation?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#2-what-is-documentation)
 3. [Who is Documentation For?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/c9d82ab5-d56f-455c-9a34-b64eecc4c9c5 "3. Who is Documentation For?")
 4. [How Does Nija Consume Documentation?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/54131785380923 "4. How Does Nija Consume Documentation?")
 5. [Why Should Art Have Documented His Code?](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53928293410923 "5. Why Should Art Have Documented His Code?")
@@ -210,7 +210,7 @@ Here's a link to the basic [Markdown documentation](https://help.github.com/arti
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTA2NDQ1NiwtMjEwMjM3NzYxNSwxND
+eyJoaXN0b3J5IjpbLTYwMzEzMDcyMSwtMjEwMjM3NzYxNSwxND
 cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
 Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
