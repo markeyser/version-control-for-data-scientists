@@ -205,11 +205,11 @@ Here's a link to the basic [Markdown documentation](https://help.github.com/arti
 
 
 
-## 13. Document Everything!
+## 14. Document Everything!
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODcyODcxMCwtMjEwMjM3NzYxNSwxND
-cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
-Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
+eyJoaXN0b3J5IjpbLTEzNzc0MjMzODcsLTIxMDIzNzc2MTUsMT
+Q3MDYzNzQyLDEwMDEwMDA5NzksMTY5MTY4ODc0NiwtMTI5MjM3
+NTM5Nyw1Mjg1NDQ2NzgsMTA0NjU0ODMwNF19
 -->
