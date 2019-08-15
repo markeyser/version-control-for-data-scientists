@@ -15,12 +15,12 @@ Learn the importance of well documented code and see how to craft meaningful REA
 3. [Who is Documentation For?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#3-who-is-documentation-for)
 4. [How Does Nija Consume Documentation?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#4-how-does-nija-consume-documentation)
 5. [Why Should Art Have Documented His Code?](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#5-why-should-art-have-documented-his-code)
-6. [Introduction to READMEs]https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#6-introduction-to-readmes)
-7. [Anatomy of a README](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923 "7. Anatomy of a README")
-8. [Documenting a Growing Codebase](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/e79fba65-50e5-44b9-a29f-850a8b6600a2 "8. Documenting a Growing Codebase")
-9. [Readable READMEs with Markdown](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786210923 "9. Readable READMEs with Markdown")
-10. [Basic Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53931993710923 "10. Basic Markdown Syntax")
-11. [Basic Markdown Syntax Quiz](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/456a380f-64c8-4b33-913e-dc2ad90efbf8 "11. Basic Markdown Syntax Quiz")
+6. [Introduction to READMEs](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#6-introduction-to-readmes)
+7. [Anatomy of a README](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#7-anatomy-of-a-readme)
+8. [Documenting a Growing Codebase](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#8-documenting-a-growing-codebase)
+9. [Readable READMEs with Markdown](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#9-readable-readmes-with-markdown)
+10. [Basic Markdown Syntax](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#10-basic-markdown-syntax)
+11. [Basic Markdown Syntax Quiz](https://github.com/markeyser/version-control-for-data-scientists/blob/master/Writing-READMEs.md#11-basic-markdown-syntax-quiz)
 12. [More Markdown Syntax](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53861592300923 "12. More Markdown Syntax")
 13. [Quiz: Markdown Syntax Practice](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53853602320923 "13. Quiz: Markdown Syntax Practice")
 14. [Document Everything!](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53929794080923 "14. Document Everything!")
@@ -210,7 +210,7 @@ Here's a link to the basic [Markdown documentation](https://help.github.com/arti
 
 https://youtu.be/-rrim56YdmY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NDY4NDIzLC0yMTAyMzc3NjE1LDE0Nz
+eyJoaXN0b3J5IjpbODU0OTEyOTQ0LC0yMTAyMzc3NjE1LDE0Nz
 A2Mzc0MiwxMDAxMDAwOTc5LDE2OTE2ODg3NDYsLTEyOTIzNzUz
 OTcsNTI4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
 -->
