@@ -38,8 +38,9 @@ After you've taken a few moments to review the README's yourself, feel free to c
 
 https://youtu.be/7ZHhSSBUzoI
 
-
+As noted in the video above, feel free to use [Choose a License](http://choosealicense.com/) to help you, well... choose a license for your projects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMj
-kyMzc1Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
+eyJoaXN0b3J5IjpbLTE0NTQ0ODc4NTQsMTAwMTAwMDk3OSwxNj
+kxNjg4NzQ2LC0xMjkyMzc1Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4
+MzA0XX0=
 -->
