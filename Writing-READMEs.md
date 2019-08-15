@@ -79,11 +79,11 @@ As a code base grows, which sections might you add to your README?
 
 Press your project has received doesn't really help us actually use your code, so it's not a good fit for a README (this might be something more appropriate for your own website). Photos of your cat might fare better elsewhere as well, rather than your README.
 
-## Anatomy of a README
+## 7. Anatomy of a README
 
 https://youtu.be/i602s2RxWR0
 
-## Documenting a Growing Codebase
+## 8. Documenting a Growing Codebase
 
 ### Documenting a Growing Codebase
 
@@ -91,7 +91,13 @@ https://youtu.be/4sU1LZksOH4
 
 As noted in the video above, feel free to use  [Choose a License](http://choosealicense.com/)  to help you, well... choose a license for your projects.
 
-# Markdown 101
+## 9. Readable READMEs with Markdown
+
+https://youtu.be/rWGxZGRwuAM
+
+## 10. Basic Markdown Syntax
+
+### Markdown 101
 
 Markdown is a light markup language often used for READMEs (though you'll find other use cases for it, too!). It is fairly straightforward, and much of the syntax is intuitive.
 
@@ -99,7 +105,7 @@ But as it turns out, there are many different  _dialects_  of Markdown, just lik
 
 Since your READMEs will ultimately end up on GitHub, we'll be using  **GitHub Flavored Markdown**. I've included a link to the full documentation for it in the instructor notes (and we'll be using that later in this course), but I'll get you started with a quick crash course.
 
-## Feeling Bold?
+### Feeling Bold?
 
 To make text  **bold**, surround it with double asterisks. So this code:
 
@@ -112,7 +118,7 @@ becomes: Isn't today a  **wonderful**  day?
 
 This reads a bit more nicely than a  `<strong>`  tag would in HTML, and takes considerably fewer keystrokes to type out.
 
-## _Italics_, I tell you!
+### _Italics_, I tell you!
 
 To  _italicize_  text, surround it with underscores. So this code:
 
@@ -185,7 +191,7 @@ Here's a link to the basic  [Markdown documentation](https://help.github.com/art
 
 To preview Markdown in the browser, try  [Dillinger](http://dillinger.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NjU4Njk2LC0yMTAyMzc3NjE1LDE0Nz
-A2Mzc0MiwxMDAxMDAwOTc5LDE2OTE2ODg3NDYsLTEyOTIzNzUz
-OTcsNTI4NTQ0Njc4LDEwNDY1NDgzMDRdfQ==
+eyJoaXN0b3J5IjpbMTEzNTY1MzAyOSwtMjEwMjM3NzYxNSwxND
+cwNjM3NDIsMTAwMTAwMDk3OSwxNjkxNjg4NzQ2LC0xMjkyMzc1
+Mzk3LDUyODU0NDY3OCwxMDQ2NTQ4MzA0XX0=
 -->
